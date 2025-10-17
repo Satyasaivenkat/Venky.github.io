@@ -74,7 +74,7 @@
           <div class="contact-row">
             <span class="pill">📞 +91 99086 77538</span>
             <a class="pill" href="mailto:satyasaivenkat26@gmail.com">✉️ satyasaivenkat26@gmail.com</a>
-            <a class="pill" href="https://www.linkedin.com/in/satya-sai-venkat-46b006194" target="_blank">🔗 LinkedIn</a>
+            <a class="pill" href="https://www.linkedin.com/in/satya-sai-venkat-p-46b006194/" target="_blank">🔗 LinkedIn</a>
           </div>
         </div>
       </div>
